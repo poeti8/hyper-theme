@@ -1,0 +1,23 @@
+{
+  "name": "hyper-theme",
+  "version": "1.0.0",
+  "description": "Hyper theme for hyper terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poeti8/hyper-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "author": "Pouria Ezzati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poeti8/hyper-theme/issues"
+  },
+  "homepage": "https://github.com/poeti8/hyper-theme#readme"
+}
